@@ -1,2 +1,2 @@
 # Digit-formatter
-best use scenerio is prepaid meter long digit token recharge.
+best use case scenerio is prepaid meter long digit token recharge.
