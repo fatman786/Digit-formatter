@@ -1,4 +1,5 @@
 # Digit-formatter
 best use case scenerio is prepaid meter long digit token recharge.
 HOW TO USE: just download the index.html file and open it with any browser. in the paste box you dont need to paste just the number but you can paste the full messege without seperating the number,which is more conveniant.
-CAUTION:if you are pesting the full messege which contails token numberuse the messege that came from BREB or your electricity company ,not the messege that came from MFS such as Bkash/NAgad
+CAUTION:if you are pesting the full messege which contails token numberuse the messege that came from BREB or your electricity company ,not the messege that came from MFS such as Bkash/Nagad
+Messege demo : Successful!Your REB Prepaid Token is 0419-2870-7740-7339-2419,5993-2895-7051-5778-0352,3496-5212-6157-9510-4046,2857-2577-5759-8369-2102,4848-4339-8459-8924-9191,0897-1319-6556-6885-0319,6857-9966-1999-8459-0224,6595-4267-9922-4544-9067,6014-3522-2571-4557-3225,4060-4709-8133-8922-6189,3677-5132-2350-7193-8289,4597-7552-5233-2464-7311,SquNo:-2=9 for offline Meter No:0405103xxxxx,Customer Name: Most Sultan,Vending Amt:490.0,Enrg Cost: 344.79,Total Charge:23.33,Demand Charge:84,Meter Rent:40,Rebate:-2.12,VAT:23.33.
